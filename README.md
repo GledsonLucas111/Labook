@@ -1,5 +1,4 @@
 # Labook
-## Labook
 
  **Projeto proposto pela Labenu. Um projeto back-end inspirado em algumas das funcionalidades do Facebook.**
 
