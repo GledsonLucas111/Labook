@@ -10,6 +10,7 @@
 
 ## Rotas do projeto
 Métodos Get: Pegar post por id.
+
 Métodos Post: Criar usuário, Fazer Login, Criar post.
 
 ## Inicializar projeto
