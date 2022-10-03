@@ -22,6 +22,8 @@ Métodos Post: Criar usuário, Fazer Login, Criar post.
 - Typescript
 - Postman
 
+## Inicializar projeto
+
 ```bash
 # Install packages
 $ npm install
